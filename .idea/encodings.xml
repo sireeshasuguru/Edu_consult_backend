@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/eduConsultancy/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eduConsultancy/blog-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eduConsultancy/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eduConsultancy/email-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eduConsultancy/payment-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eduConsultancy/product-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eduConsultancy/service-registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eduConsultancy/user-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>
